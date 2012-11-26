@@ -1,4 +1,5 @@
 ## ERROR 1:
+
 	limingth@ubuntu:~/Git-Learning/NCCL.codes/Lesson-1$ gcc lesson-1.1.c 
 	lesson-1.1.c: In function ‘main’:
 	lesson-1.1.c:4: error: expected ‘;’ before ‘}’ token
