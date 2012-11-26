@@ -10,16 +10,16 @@ int main(void)
 limingth@ubuntu:~/Git-Learning/NCCL.codes/Lesson-1$ 
 
 
-ERROR 2:
-limingth@ubuntu:~/Git-Learning/NCCL.codes/Lesson-1$ gcc lesson-1.1.c  -Wall
-lesson-1.1.c: In function ‘main’:
-lesson-1.1.c:3: warning: ‘return’ with no value, in function returning non-void
-limingth@ubuntu:~/Git-Learning/NCCL.codes/Lesson-1$ cat lesson-1.1.c 
-int main(void)
-{
-	return ;
-}
-limingth@ubuntu:~/Git-Learning/NCCL.codes/Lesson-1$ 
+## ERROR 2:
+	limingth@ubuntu:~/Git-Learning/NCCL.codes/Lesson-1$ gcc lesson-1.1.c  -Wall
+	lesson-1.1.c: In function ‘main’:
+	lesson-1.1.c:3: warning: ‘return’ with no value, in function returning non-void
+	limingth@ubuntu:~/Git-Learning/NCCL.codes/Lesson-1$ cat lesson-1.1.c 
+	int main(void)
+	{
+		return ;
+	}
+	limingth@ubuntu:~/Git-Learning/NCCL.codes/Lesson-1$ 
 
 
 ERROR 3:
