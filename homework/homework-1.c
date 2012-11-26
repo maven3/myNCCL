@@ -1,13 +1,13 @@
-ERROR 1:
-limingth@ubuntu:~/Git-Learning/NCCL.codes/Lesson-1$ gcc lesson-1.1.c 
-lesson-1.1.c: In function ‘main’:
-lesson-1.1.c:4: error: expected ‘;’ before ‘}’ token
-limingth@ubuntu:~/Git-Learning/NCCL.codes/Lesson-1$ cat lesson-1.1.c 
-int main(void)
-{
-	return 0
-}
-limingth@ubuntu:~/Git-Learning/NCCL.codes/Lesson-1$ 
+## ERROR 1:
+	limingth@ubuntu:~/Git-Learning/NCCL.codes/Lesson-1$ gcc lesson-1.1.c 
+	lesson-1.1.c: In function ‘main’:
+	lesson-1.1.c:4: error: expected ‘;’ before ‘}’ token
+	limingth@ubuntu:~/Git-Learning/NCCL.codes/Lesson-1$ cat lesson-1.1.c 
+	int main(void)
+	{
+		return 0
+	}
+	limingth@ubuntu:~/Git-Learning/NCCL.codes/Lesson-1$ 
 
 
 ERROR 2:
